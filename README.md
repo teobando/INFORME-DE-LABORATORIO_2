@@ -90,6 +90,8 @@ Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCAT
 
 Khan. (2015).*Khan Academy* Las Leyes de Kirchhoff. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 
+Link de la calculadora de Sistemas de Ecuaciones: http://es.onlinemschool.com/math/assistance/equation/combined_equations/
+
 
 
 
