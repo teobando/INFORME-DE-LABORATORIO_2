@@ -1,4 +1,4 @@
-# INFORME-DE-LABORATORIO_2
+# INFORME DE LABORATORIO 2
 
 **UNIVERSIDAD DE LAS FUERZAS ARMADAS**
 
@@ -75,6 +75,8 @@ Estos resultados debemos transformar a miliamperios
 
 **5. VIDEO:**
 
+https://www.youtube.com/watch?v=wmTs2bGJBvw
+
 **6. CONCLUSIONES**
 
 - Tener los conceptos claros en lo que ue se refiere a corriente y al definición de una malla nos ayudó a medir de forma precisa las diferentes correintes que pasan por las mallas del circuito. 
@@ -85,6 +87,8 @@ Estos resultados debemos transformar a miliamperios
 **7.BIBLIOGRAFÍA**
 
 Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION.
+
+Khan. (2015).*Khan Academy* Las Leyes de Kirchhoff. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 
 
 
